@@ -1,6 +1,5 @@
 import React from 'react';
-import {BrowserRouter} from "react-router-dom";
-import {Route, Routes} from "react-router";
+import {BrowserRouter,Route, Routes} from "react-router-dom";
 import Dashboard from "./pages/Dashboard";
 const App = () => {
     return (
